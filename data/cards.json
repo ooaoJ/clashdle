@@ -30,8 +30,9 @@
     { "id": 24, "nome": "Dragões Esqueleto ","raridade": "Comum",   "arena": 4,   "tipo": "Tropa",          "elixir": 3 },
     { "id": 25, "nome": "Torre de Bombas",   "raridade": "Raro",    "arena": 4,   "tipo": "Construção",     "elixir": 4 },
     { "id": 26, "nome": "Torre Inferno",     "raridade": "Raro",    "arena": 4,   "tipo": "Construção",     "elixir": 5 },
-    { "id": 27, "nome": "Mago",              "raridade": "Raro",    "arena": 4,   "tipo": "Tropa",          "elixir": 5 }
+    { "id": 27, "nome": "Mago",              "raridade": "Raro",    "arena": 4,   "tipo": "Tropa",          "elixir": 5 },
 
+    { "id": 28, "nome": "",   "raridade": "Raro",    "arena": 4,   "tipo": "Construção",     "elixir": 4 }
 
 
     
