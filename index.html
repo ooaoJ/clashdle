@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ClashGuess — Adivinhe a carta (vanilla)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <h1>ClashGuess</h1>
+    <p class="subtitle">Adivinhe a carta — você tem <span id="max-attempts">6</span> tentativas.</p>
+
+    <form id="guess-form" class="form">
+      <input id="guess-input" list="cards-list" autocomplete="off" placeholder="Digite o nome da carta..." />
+      <datalist id="cards-list"></datalist>
+      <button type="submit" class="btn">Chutar</button>
+      <button type="button" id="restart-btn" class="btn secondary">Reiniciar</button>
+    </form>
+
+    <div id="message" class="message"></div>
+
+    <div id="guesses" class="guesses"></div>
+
+    <div class="help">
+      <strong>Dicas:</strong>
+      <ul>
+        <li>Nome: acerto exato (fuzzy ajuda com pequenos erros).</li>
+        <li>Raridade / Tipo: mostram correspondência.</li>
+        <li>Arena/Elixir: indicam se o alvo é maior (↑) ou menor (↓).</li>
+      </ul>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+
+    { "id": 1,  "nome": "Flechas",           "raridade": "Comum",  "arena": 0,   "tipo": "Feitiço",        "elixir": 3 },
+    { "id": 2,  "nome": "Cavaleiro",         "raridade": "Comum",  "arena": 0,   "tipo": "Tropa",          "elixir": 3 },
+    { "id": 3,  "nome": "Servos",            "raridade": "Comum",  "arena": 0,   "tipo": "Tropa",          "elixir": 3 },
+    { "id": 4,  "nome": "Arqueiras",         "raridade": "Comum",  "arena": 0,   "tipo": "Tropa",          "elixir": 3 },
+    { "id": 5,  "nome": "Bola de Fogo",      "raridade": "Raro",   "arena": 0,   "tipo": "Tropa",          "elixir": 4 },
+    { "id": 6,  "nome": "Mini Pekka",        "raridade": "Raro",   "arena": 0,   "tipo": "Tropa",          "elixir": 4 },
+    { "id": 7,  "nome": "Mosqueteira",       "raridade": "Raro",   "arena": 0,   "tipo": "Tropa",          "elixir": 4 },
+    { "id": 8,  "nome": "Gigante",           "raridade": "Raro",   "arena": 0,   "tipo": "Tropa",          "elixir": 5 },
+    { "id": 9,  "nome": "Mosqueteira",       "raridade": "Raro",   "arena": 0,   "tipo": "Tropa",          "elixir": 4 },
+
+    { "id": 10, "nome": "Goblins Lanceiros", "raridade": "Comum",  "arena": 1,   "tipo": "Tropa",          "elixir": 2 },
+    { "id": 11, "nome": "Goblins",           "raridade": "Comum",  "arena": 1,   "tipo": "Tropa",          "elixir": 2 },
+    { "id": 12, "nome": "Jaula de Goblin",   "raridade": "Raro",   "arena": 1,   "tipo": "Construção",     "elixir": 4 },
+    { "id": 13, "nome": "Cabana de Goblins", "raridade": "Raro",   "arena": 1,   "tipo": "Construção",     "elixir": 4 },
+
+    { "id": 14, "nome": "Bombardeiro",       "raridade": "Comum",  "arena": 2,   "tipo": "Tropa",          "elixir": 2 },
+    { "id": 15, "nome": "Esqueletos",        "raridade": "Comum",  "arena": 2,   "tipo": "Tropa",          "elixir": 1 },
+    { "id": 16, "nome": "Lápide",            "raridade": "Raro",   "arena": 2,   "tipo": "Construção",     "elixir": 3 },
+    { "id": 17, "nome": "Valquiria",         "raridade": "Raro",   "arena": 2,   "tipo": "Tropa",          "elixir": 4 },
+
+    { "id": 18, "nome": "Bárbaros",          "raridade": "Comum",   "arena": 3,   "tipo": "Tropa",          "elixir": 5 },
+    { "id": 19, "nome": "Canhão",            "raridade": "Comum",   "arena": 3,   "tipo": "Construção",     "elixir": 3 },
+    { "id": 20, "nome": "Megasservo",        "raridade": "Raro",    "arena": 3,   "tipo": "Tropa",          "elixir": 3 },
+    { "id": 21, "nome": "Ariete de Batalha", "raridade": "Raro",    "arena": 3,   "tipo": "Tropa",          "elixir": 4 },
+
+    { "id": 22, "nome": "Espírito Elétrico", "raridade": "Comum",   "arena": 4,   "tipo": "Tropa",          "elixir": 1 },
+    { "id": 23, "nome": "Espírito de Fogo",  "raridade": "Comum",   "arena": 4,   "tipo": "Tropa",          "elixir": 1 },
+    { "id": 24, "nome": "Dragões Esqueleto ","raridade": "Comum",   "arena": 4,   "tipo": "Tropa",          "elixir": 3 },
+    { "id": 25, "nome": "Torre de Bombas",   "raridade": "Raro",    "arena": 4,   "tipo": "Construção",     "elixir": 4 },
+    { "id": 26, "nome": "Torre Inferno",     "raridade": "Raro",    "arena": 4,   "tipo": "Construção",     "elixir": 5 },
+    { "id": 27, "nome": "Mago",              "raridade": "Raro",    "arena": 4,   "tipo": "Tropa",          "elixir": 5 }
+
+
+
+    
+]
